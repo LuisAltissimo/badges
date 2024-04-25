@@ -1,6 +1,5 @@
 {
-    "badge": {
-      "texto": "{{lula}}"
-    }
+    "url": "https://github.com/badges/shields/raw/master/package.json",
+    "query": "$.name"
   }
   
