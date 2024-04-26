@@ -1,20 +1,36 @@
 {
-    "firstName": "John",
-    "lastName": "doe",
-    "age": 26,
-    "address": {
-        "streetAddress": "naist street",
-        "city": "Nara",
-        "postalCode": "630-0192"
-    },
-    "phoneNumbers": [
-        {
-            "type": "iPhone",
-            "number": "0123-4567-8888"
-        },
-        {
-            "type": "home",
-            "number": "0123-4567-8910"
-        }
-    ]
+    "alembic":"alembic",
+"async-timeout":"async-timeout",
+"black":"black",
+"blinker":"blinker",
+"certifi":"certifi",
+"cffi":"cffi",
+"click":"click",
+"colorama":"colorama",
+"cryptography":"cryptography",
+"Flask":"Flask",
+"Flask-Cors":"Flask-Cors",
+"Flask-JWT-Extended":"Flask-JWT-Extended",
+"Flask-Mail":"Flask-Mail",
+"Flask-Migrate":"Flask-Migrate",
+"Flask-SQLAlchemy":"Flask-SQLAlchemy",
+"greenlet":"greenlet",
+"itsdangerous":"itsdangerous",
+"Jinja2":"Jinja2",
+"Mako":"Mako",
+"MarkupSafe":"MarkupSafe",
+"mypy-extensions":"mypy-extensions",
+"packaging":"packaging",
+"pathspec":"pathspec",
+"platformdirs":"platformdirs",
+"pycparser":"pycparser",
+"PyJWT":"PyJWT",
+"PyMySQL":"PyMySQL",
+"redis":"redis",
+"simplekml":"simplekml",
+"SQLAlchemy":"SQLAlchemy",
+"tomli":"tomli",
+"typing_extensions":"typing_extensions",
+"utm":"utm",
+"Werkzeug":"Werkzeug",
 }
