@@ -1,0 +1,11 @@
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.alembic&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.black&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.blinker&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.certifi&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.cffi&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.click&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.colorama&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.cryptography&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.Flask&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+
