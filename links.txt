@@ -1,5 +1,5 @@
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.alembic&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
-
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.asynctimeout&label=%20&labelColor=black&color=red
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.black&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.blinker&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.certifi&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
@@ -8,4 +8,28 @@ https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubuserconten
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.colorama&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.cryptography&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
 https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.Flask&style=plastic&logoColor=violet&logoSize=auto&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.FlaskCors&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.FlaskJWTExtended&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.FlaskMail&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.FlaskMigrate&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.FlaskSQLAlchemy&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.greenlet&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.itsdangerous&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.Jinja2&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.Mako&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.MarkupSafe&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.mypyextensions&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.packaging&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.pathspec&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.platformdirs&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.pycparser&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.PyJWT&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.PyMySQL&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.redis&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.simplekml&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.SQLAlchemy&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.tomli&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.typingextensions&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.utm&label=%20&labelColor=black&color=red
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLuisAltissimo%2Fbadges%2Fmain%2Fteste.json&query=%24.Werkzeug&label=%20&labelColor=black&color=red
 
